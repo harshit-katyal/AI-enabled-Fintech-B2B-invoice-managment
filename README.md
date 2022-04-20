@@ -1,4 +1,4 @@
-# 🌐 AI-Enabled FinTech B2B Invoice Management Application - [DEMO](https://drive.google.com/file/d/1ma4deNGn0aF4oW27GTSH0jssG5VfT-LU/view?usp=sharing)
+# 🌐 AI-Enabled FinTech B2B Invoice Management Application 
 
 
 ---
