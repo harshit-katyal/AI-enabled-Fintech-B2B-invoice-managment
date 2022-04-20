@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+  margin: auto;
+  background-color:  #2A3E4C;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #2a3346;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.logo-hrc {
+  background-color: #375366;
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  background-color: #2a3e4c;
+  padding: 20px 40px;
+  justify-content: space-between;
+}
+
+
+.footer {
+  text-align: center;
+  background-color: #2f3f5f;
+  padding: 20px 10px;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 30px; /* Height of the footer */
+  /* background-color:  #2A3E4C; */
+}
+
+/* Popup style */
+.popup-box {
+  position: fixed;
+  background: #00000050;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: 80 !important;
+  color: white;
+}
+
+.box {
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+  height: 70%;
+  max-height: 80vh;
+  margin-top: calc(100vh - 85vh - 20px);
+  background-color: #2a3e4c;
+  border-radius: 4px;
+  padding: 20px;
+  border: 1px solid black;
+  overflow: auto;
+}
+
+.invoice {
+  background-color: white;
+}
+
+.customer {
+  background-color: white;
+ 
+}
+
+.edit-popup {
+      padding: 15px 67px;
+}
+
+.delete-pop {
+  color: white;
+}
+
+.MuiDataGrid-root {
+  color: whitesmoke;
+  font-size: 15px;
+  /* margin: 30px 20px 0 20px; */
+}
+
+.data-grid{
+  
+}
